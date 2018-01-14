@@ -15,8 +15,18 @@ weight = 60
 
 +++
 
+Courses in 2017/18:
+
 Corporate Finance
+
 Advanced Behavioral Finance
+
 Topics in Financial Economics
+
 Finaincial Regulation
+
 Economics of Financial Regulation
+
+Investor Psychology
+
+Advanced Microeconomics for Business Studies
