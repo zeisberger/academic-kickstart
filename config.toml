@@ -55,15 +55,15 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Radboud University", url = "" },  { name = "University of Zurich", url = "" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "stefan.zeisberger@gmail.com"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  address = "Radboud University, Heyendaalsweg 141, Elinor Ostrom Building, Postbus 9108, 6500HK Nijmegen, Netherlands"
+  office_hours = "Appointments by e-mail "
+  # phone = "888 888 88 88"
+  skype = "stefan.zeisberger"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -92,11 +92,11 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  latitude = "51.819425"
+  longitude = "5.867424"
+  zoom = 13
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
