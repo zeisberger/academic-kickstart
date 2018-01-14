@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Stefan Z"
+title = "Stefan Zeisberger"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -217,22 +217,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:stefan.zeisberger@gmail.com"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fa"
+  #  link = "//github.com/gcushen"
 
 
 # Navigation Links
