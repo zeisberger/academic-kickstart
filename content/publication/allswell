@@ -1,4 +1,3 @@
-+++
 title = "All’s Well That Ends Well? On the Importance of how Returns are Achieved"
 
 # Date first published.
@@ -63,7 +62,3 @@ highlight = true
 [header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
-
-+++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
