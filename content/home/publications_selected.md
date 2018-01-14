@@ -4,13 +4,13 @@
 # `selected = true` in their `+++` front matter.
 widget = "publications_selected"
 active = true
-date = 2016-04-20
+date = 2018-01-11
 
 title = "Selected Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 15
+weight = 20
 
 # List format.
 #   0 = Simple
@@ -29,5 +29,5 @@ list_format = 3
 #  5: Book
 #  6: Book chapter
 publication_type = "-1"
-+++
 
++++
