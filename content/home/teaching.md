@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-Courses in 2017/18:
+Courses in 2017-2018:
 
 Corporate Finance
 
