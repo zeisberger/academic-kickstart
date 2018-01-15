@@ -60,8 +60,10 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "stefan.zeisberger@gmail.com"
-  address = "Radboud University, Heyendaalsweg 141, Elinor Ostrom Building, Postbus 9108, 6500HK Nijmegen, Netherlands"
-  office_hours = "Appointments by e-mail "
+  address = "Radboud University, Heyendaalsweg 141, Elinor Ostrom Building (aka Gymnasium), Office 2.543, Postbus 9108, 6500HK Nijmegen, Netherlands"
+  office_hours = "Appointments by e-mail"
+  address = "University of Zurich"
+
   # phone = "888 888 88 88"
   skype = "stefan.zeisberger"
   telegram = ""
